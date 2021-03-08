@@ -9,7 +9,7 @@ Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
 
 ### `npm run start`
 
-Runs the app without `NODEMON`.
+Runs the app without `NODEMON`
 
 ### `npm start --prefix client`
 
